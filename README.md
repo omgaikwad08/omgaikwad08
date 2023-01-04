@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **omg0809/omg0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning various Motion Planning Alogrithms and Deep Learning methods
 - 📫 How to reach me: Reach me on LinkedIn 
 - 😄 Pronouns: He/Him/His
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/) 
