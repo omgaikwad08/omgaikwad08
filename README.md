@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Om Vinayak Gaikwad, a graduate studet of Masters of Science in Robotics engineering at Worcestor Polytechnic Institute (WPI), Massachusetts, USA. I have a Bachelors in Technology in Mechatronics Engineering from Symbiosis Skills and Professional University. I have deep interest and passion in Robotics and I wish to work on mobile robots and their Control and Planning.
+I am Om Vinayak Gaikwad, a graduate studet of Masters of Science in Robotics engineering at Worcestor Polytechnic Institute (WPI), Massachusetts, USA. I have a Bachelors in Technology in Mechatronics Engineering from Symbiosis Skills and Professional University, Pune, India. I have deep interest and passion in Robotics and I wish to work on mobile robots and their Control and Planning.
 
 - 🌱 I’m currently learning various Motion Planning alogrithms and Deep Learning methods
 - 📫 How to reach me: Reach me on LinkedIn 
