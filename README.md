@@ -1,9 +1,3 @@
-### Hi there 👋
-
-**omg0809/omg0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pusuring Masters in Robotics Engineering from Worcester Polytechnic Institute.
 - 🌱 I’m currently learning various Motion Planning Alogrithms and Deep Learning methods
 - 📫 How to reach me: Reach me on LinkedIn 
