@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Om!](https://github.com/omgaikwad08)
 
-I am currently working as a Robotics Systems Engineer at **[Celltrio Inc]([https://www.wpi.edu/](https://celltrio.com/company/))** in Fremont, California. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debugging HW/SW problems to enhance the system's overall functionality.I completed my Master of Science in Robotics Engineering from **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Worcester, Massachusetts.
+I am currently working as a Robotics Systems Engineer at **[Celltrio Inc]((https://celltrio.com/company/))** in Fremont, California. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debugging HW/SW problems to enhance the system's overall functionality.I completed my Master of Science in Robotics Engineering from **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Worcester, Massachusetts.
 
 - 👨‍💻 I’m currently working as a Robotics Systems Engineer
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/) | ✉️ **[Email]([mailto:ogaikwad@wpi.edu])**
